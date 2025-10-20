@@ -1,0 +1,15 @@
+----- READING DATA SET FROM: baseline_results/VRPTW_hgs/vrptw100_uniform_0.2_n10_speed_1.0_scale_1.0_hgs_iter2000/0.hgs.vrp
+----- FLEET SIZE SPECIFIED IN THE COMMANDLINE: SET TO 100 VEHICLES
+----- INSTANCE LOADED WITH 100 CLIENTS AND 100 VEHICLES
+----- BUILDING INITIAL POPULATION
+Generated 5 individuals using Nearest
+It     -1     -1 | T(s) 0.02 | Feas 1 289471.00 289471.00 | Inf 5 248746.00 251551.40 | Div -nan 0.47 | Feas 0.99 0.95 | Pen 1000.00 1.00
+Generated 5 individuals using Furthest
+It     -1     -1 | T(s) 0.04 | Feas 1 289471.00 289471.00 | Inf 10 248511.00 253208.40 | Div -nan 0.54 | Feas 0.99 0.90 | Pen 1000.00 1.00
+Generated 5 individuals using Sweep
+It     -1     -1 | T(s) 0.07 | Feas 1 289471.00 289471.00 | Inf 15 248511.00 252797.60 | Div -nan 0.55 | Feas 0.98 0.85 | Pen 1000.00 1.00
+Generated 85 individuals Randomly
+It     -1     -1 | T(s) 0.66 | Feas 12 277721.00 284511.67 | Inf 59 241216.00 244736.44 | Div 0.58 0.48 | Feas 0.93 0.00 | Pen 1000.00 1.00
+----- STARTING GENETIC ALGORITHM
+It      0      2 | T(s) 0.66 | Feas 12 277721.00 284511.67 | Inf 60 275476.00 282914.80 | Div 0.58 0.48 | Feas 0.94 0.00 | Pen 850.00 2.00
+It    500     97 | T(s) 1.93 | Feas 58 268276.00 272683.96 | Inf 64 270138.62 271854.56 | Div 0.44 0.44 | Feas 1.00 0.20 | Pen 377.15 6.91
